@@ -1,0 +1,14 @@
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.AssemblyInfo.cs
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\bin\Debug\net8.0\CarLotSimulator.exe
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\bin\Debug\net8.0\CarLotSimulator.deps.json
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\bin\Debug\net8.0\CarLotSimulator.runtimeconfig.json
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\bin\Debug\net8.0\CarLotSimulator.dll
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\bin\Debug\net8.0\CarLotSimulator.pdb
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.dll
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\refint\CarLotSimulator.dll
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.pdb
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\CarLotSimulator.genruntimeconfig.cache
+C:\Users\JonFr\repos\CarLotSimulator\CarLotSimulator\obj\Debug\net8.0\ref\CarLotSimulator.dll
