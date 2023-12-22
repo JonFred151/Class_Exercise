@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarLotSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a76c98ff4ed68e8e48f67c010922e56bee511395")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarLotSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarLotSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

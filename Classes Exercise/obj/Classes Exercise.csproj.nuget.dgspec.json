@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JonFr\\repos\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj": {}
+    "C:\\Users\\Jon\\repos\\Class_Exercise\\Classes Exercise\\Classes Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JonFr\\repos\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj": {
+    "C:\\Users\\Jon\\repos\\Class_Exercise\\Classes Exercise\\Classes Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonFr\\repos\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\Jon\\repos\\Class_Exercise\\Classes Exercise\\Classes Exercise.csproj",
         "projectName": "Classes Exercise",
-        "projectPath": "C:\\Users\\JonFr\\repos\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj",
-        "packagesPath": "C:\\Users\\JonFr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonFr\\repos\\Classes Exercise\\Classes Exercise\\obj\\",
+        "projectPath": "C:\\Users\\Jon\\repos\\Class_Exercise\\Classes Exercise\\Classes Exercise.csproj",
+        "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jon\\repos\\Class_Exercise\\Classes Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JonFr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
